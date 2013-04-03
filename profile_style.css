@@ -1,0 +1,28 @@
+body {
+	background: black;
+	color: yellow;
+	text-align: center;
+}
+
+h1, h3 {
+	color: white;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h2 {
+	color: red;
+	background: #35c0f2;
+}
+
+.social img {
+  width: 30px;
+}
+
+/*#container {
+	background: black;
+	width: 420px;
+	padding: 15px;
+}*/
