@@ -4,25 +4,17 @@ body {
 	text-align: center;
 }
 
-h1, h3 {
-	color: white;
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 75px;
+  margin: 50px auto 40px auto;
+  color: #00d;
 }
 
-h1, h2 {
-	text-align: center;
-}
-
-h2 {
-	color: red;
-	background: #35c0f2;
+h3 {
+	color: #00e;
 }
 
 .social img {
   width: 30px;
 }
-
-/*#container {
-	background: black;
-	width: 420px;
-	padding: 15px;
-}*/
